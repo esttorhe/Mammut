@@ -1,2 +1,2 @@
 # Mammut
-🐘Mastodon's Unofficial Swift Framework
+Yet another 🐘Mastodon iOS Client 📱
